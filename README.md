@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at [berkayediz.com](berkayediz.com)
+- 👨‍💻 All of my projects are available at [**UNDER CONSTRUCTION**](berkayediz.com)
 
 - 📫 How to reach me **berkayeediz@gmail.com**
 
-- 📄 Know about my experiences [berkayediz.com/experiences](berkayediz.com/experiences)
+- 📄 Know about my experiences [**UNDER CONSTRUCTION**](berkayediz.com/experiences)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
