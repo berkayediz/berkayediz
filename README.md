@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ediz</h1>
-<h3 align="center">A passionate frontend developer from Chicago, Il</h3>
+<h3 align="center">A passionate frontend developer based Chicago, Il</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkayediz&label=Profile%20views&color=0e75b6&style=flat" alt="berkayediz" /> </p>
 
