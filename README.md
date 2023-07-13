@@ -1,7 +1,9 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Ediz</h1>
 <h3 align="center">A passionate frontend developer based Chicago, Il</h3>
-🌱 I’m currently learning React Js <br> 📫 How to reach me [berkayeediz@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBmXNrmbKkXQJgRrVZrnlVTJjWcHjQDCzxdHGBCkRhhWfFjDZHkgLwMjrRvpDNxxnfHdvzm)
+
+🌱 I’m currently learning React Js <br>
+📫 How to reach me [berkayeediz@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBmXNrmbKkXQJgRrVZrnlVTJjWcHjQDCzxdHGBCkRhhWfFjDZHkgLwMjrRvpDNxxnfHdvzm)
 
 [![](https://visitcount.itsvg.in/api?id=berkayediz&icon=5&color=12)](https://visitcount.itsvg.in)
 
