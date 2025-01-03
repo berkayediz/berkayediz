@@ -3,7 +3,7 @@
 <h3 align="center">A passionate QA Tester based Chicago, Il</h3>
 
 🌱 I’m currently learning Selenium <br>
-📫 How to reach me [berkayeediz@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBmXNrmbKkXQJgRrVZrnlVTJjWcHjQDCzxdHGBCkRhhWfFjDZHkgLwMjrRvpDNxxnfHdvzm)
+📫 How to reach me [berkayedizince@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBmXNrmbKkXQJgRrVZrnlVTJjWcHjQDCzxdHGBCkRhhWfFjDZHkgLwMjrRvpDNxxnfHdvzm)
 
 [![](https://visitcount.itsvg.in/api?id=berkayediz&icon=5&color=12)](https://visitcount.itsvg.in)
 
